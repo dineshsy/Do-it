@@ -1,16 +1,40 @@
 # do_it
 
-A new Flutter project.
+## Principle
+* The core feature of this app is Posture Recognition using Artificial Intelligence.
+* We had seen many many fitness apps in our day to life. Which gives us the information and instruction to the exercises that they have.
+* Yes, they say how to do it, but they never correct your posture.
+* So personally as a team of two. We built this App to recognise your posture and show the areaswhich you need to concentrate for imporoving your posture.
 
-## Getting Started
+## Enough discusion let us see the App itself
 
-This project is a starting point for a Flutter application.
+### Dashboard
 
-A few resources to get you started if this is your first Flutter project:
+In here the exercises are displaye.
+User can select the exercise for his need.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![the dashboard](https://i.ibb.co/yyHsFw6/dashboard.jpg)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Let us assume the user selects Warrior 1 pose
+
+The short description and instruction of that posture will be produced to the user.
+Then the user can upload his posture. i.e., He must try the warrior 1 pose and give us the picture of it.
+
+### For example like this.
+![user](https://i.ibb.co/09jVBsL/Asset-1.png)
+
+### Relax the server will do its part
+
+The above picture will then used by server and convert it to a skeletal image, like this.
+![skeletalUser](https://i.ibb.co/5MLsRkY/user.jpg)
+
+we uploaded the original warrior 1's skeletal, which is below.
+
+![warriorSkeletal](https://i.ibb.co/7zTbVmk/original.jpg)
+
+### Both the skeletals will be compared then the result will be displayed below.
+![result](https://i.ibb.co/PrcBFWd/result.jpg)
+
+
+## This app won second place in miniProjectExpo
+
