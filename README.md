@@ -13,7 +13,7 @@
 In here the exercises are displaye.
 User can select the exercise for his need.
 
-![the dashboard](https://i.ibb.co/yyHsFw6/dashboard.jpg | 250x250)
+<img src="https://i.ibb.co/yyHsFw6/dashboard.jpg" width="100" height="100">
 
 ### Let us assume the user selects Warrior 1 pose
 
@@ -22,20 +22,24 @@ Then the user can upload his posture. i.e., He must try the warrior 1 pose and g
 
 ### For example like this.
 
-![user](https://i.ibb.co/09jVBsL/Asset-1.png =250x250)
+<img src="https://i.ibb.co/09jVBsL/Asset-1.png" width="100" height="100">
+
 
 ### Relax the server will do its part
 
 The above picture will then used by server and convert it to a skeletal image, like this.
-![skeletalUser](https://i.ibb.co/5MLsRkY/user.jpg =250x250)
+
+<img src="https://i.ibb.co/5MLsRkY/user.jpg" width="100" height="100">
+
 
 we uploaded the original warrior 1's skeletal, which is below.
 
-![warriorSkeletal](https://i.ibb.co/7zTbVmk/original.jpg =250x250)
+<img src="(https://i.ibb.co/7zTbVmk/original.jpg" width="100" height="100">
+
 
 ### Both the skeletals will be compared then the result will be displayed below.
-![result](https://i.ibb.co/PrcBFWd/result.jpg =250x250)
 
+<img src="https://i.ibb.co/PrcBFWd/result.jpg" width="100" height="100">
 
 ## This app won second place in miniProjectExpo
 
