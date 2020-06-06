@@ -34,7 +34,7 @@ The above picture will then used by server and convert it to a skeletal image, l
 
 we uploaded the original warrior 1's skeletal, which is below.
 
-<img src="(https://i.ibb.co/7zTbVmk/original.jpg" width="100" height="100">
+<img src="https://i.ibb.co/7zTbVmk/original.jpg" width="100" height="100">
 
 
 ### Both the skeletals will be compared then the result will be displayed below.
